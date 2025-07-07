@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 
 void mostrarMenu() {
     printf("\n=== Simulador de Movimento de Peças de Xadrez ===\n");
